@@ -12,8 +12,8 @@ python3 weblogic_batch_V1.0.py
 
 **单个验证**
 
-![demo.png](demo.png)
+![](demo.png)
 
 **批量验证**
 
-![demo2.png](demo2.png)
+![](demo2.png)
