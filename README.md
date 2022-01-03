@@ -14,6 +14,3 @@ python3 weblogic_batch_V1.0.py
 
 ![](demo.png)
 
-**批量验证**
-
-![](demo2.png)
